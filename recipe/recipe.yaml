@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.3.0"
+  version: "0.4.1"
 
 package:
   name: hf-gradio
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/h/hf_gradio/hf_gradio-${{ version }}.tar.gz
-  sha256: e74a0f9eab14a1d6f54c523c2192aa5283ca51f01605f661b2542387da5b9fc0
+  sha256: a017d942618f0d495a58ee4563047fa04bef614c00e0cb789a9a6d0633cffa7b
 
 build:
   number: 0
